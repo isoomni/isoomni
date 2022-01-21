@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Soomin%20Lee&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Soomin%20Lee&fontColor=000000&fontSize=90)
   
 
 ### <div align="center">I'm Soomin Lee, a Server developer 👨‍💻 working remotely since 2020 🚀</div>  
