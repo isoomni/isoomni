@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Soomin%20Lee&fontSize=90)
   
 
 ### <div align="center">I'm Soomin Lee, a Server developer 👨‍💻 working remotely since 2020 🚀</div>  
