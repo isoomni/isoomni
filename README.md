@@ -74,9 +74,13 @@
 <a href="https://github.com/isoomni" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
- <a href="https://isoomni.tistory.com/" target="_blank">
-<img src=https://img.shields.io/badge/blog-%2300acee.svg?&style=for-the-badge&logo=Blogger&logoColor=white alt=blog style="margin-bottom: 5px;" />
+<a href="https://isoomni.tistory.com" target="_blank">
+<img src=https://img.shields.io/badge/blog-ff5311.svg?&style=for-the-badge&logo=Blogger&logoColor=white alt=blog style="margin-bottom: 5px;" />
 </a>  
+
+<a href="https://isoomni.github.io/isoomni-porfolio" target="_blank">
+<img src=https://img.shields.io/badge/portfolio-%2300acee.svg?&style=for-the-badge&logo=GitBook&logoColor=white alt=portfolio style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
