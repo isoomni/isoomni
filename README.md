@@ -3,7 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Soomin%20Lee&fontColor=000000&fontSize=90)
   
 
-### <div align="center">I'm Soomin Lee, a Server developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm Soomin Lee, a Server developer 👨‍💻</div>  
+### <div align="center">working remotely since 2020 🚀</div>  
   
 
 - 🔭 I’m currently working on [Menu Review Application](https://github.com/isoomni/geoplan)  
