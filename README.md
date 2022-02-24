@@ -2,26 +2,19 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=Soomin%20Lee&fontColor=000000&fontSize=80)
   
+ </br>
 
 ### <div align="center">I'm Soomin Lee, a Server developer 👨‍💻</div>  
 ### <div align="center">working remotely since 2020 🚀</div>  
-  
 
-- 🔭 I’m currently working on [Mascota Application](https://github.com/isoomni/mascota)  
-  
+ </br>
 
+ - 🔭 I’m currently working on [Mascota Application](https://github.com/isoomni/mascota)  
+  
 - 🌱 I’m currently learning Spring
   
-<!-- 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+ </br>
 
-- ⚡ Fun fact: I use tabs over spaces  
-   -->
-
-<br/>  
-
-[![isoomni's github stats](https://github-readme-stats.vercel.app/api?username=isoomni)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -71,6 +64,20 @@
 <br/>  
 
 
+
+
+
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=isoomni&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>   
+
+<br/> 
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/isoomni" target="_blank">
@@ -89,11 +96,7 @@
 <br/>  
 
 
-<!-- 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=isoomni&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>   -->
 
 
 <!-- ## Recent Blog Posts   -->
