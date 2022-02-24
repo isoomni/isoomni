@@ -7,7 +7,7 @@
 ### <div align="center">working remotely since 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on [Menu Review Application](https://github.com/isoomni/geoplan)  
+- 🔭 I’m currently working on [Mascota Application](https://github.com/isoomni/mascota)  
   
 
 - 🌱 I’m currently learning Spring
