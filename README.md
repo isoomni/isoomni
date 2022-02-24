@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Soomin%20Lee&fontColor=000000&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=Soomin%20Lee&fontColor=000000&fontSize=80)
   
 
 ### <div align="center">I'm Soomin Lee, a Server developer 👨‍💻</div>  
@@ -21,6 +21,7 @@
 
 <br/>  
 
+[![isoomni's github stats](https://github-readme-stats.vercel.app/api?username=isoomni)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
