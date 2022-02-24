@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=Soomin%20Lee&fontColor=000000&fontSize=80)
-  
  </br>
 
 ### <div align="center">I'm Soomin Lee, a Server developer 👨‍💻</div>  
