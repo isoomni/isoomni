@@ -6,7 +6,7 @@
 
  </br>
 
- - 🔭 I’m currently working on [Mascota Application](https://github.com/isoomni/mascota) and Aauseung Application
+ - 🔭 I’m currently working on [Mascota Application](https://github.com/isoomni/mascota) and [JS-Delivery Application](https://github.com/f-lab-edu/JS-Delivery)
   
 - 🌱 I’m currently learning Spring
   
