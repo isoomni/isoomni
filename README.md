@@ -8,7 +8,7 @@
 
  - 🔭 I’m currently working on [Mascota Application](https://github.com/isoomni/mascota) and [JS-Delivery Application](https://github.com/f-lab-edu/JS-Delivery)
   
-- 🌱 I’m currently learning Spring
+- 🌱 I’m currently learning **Java** and **Spring Boot**
   
  </br>
 
@@ -27,10 +27,10 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
+</td>
+ 
+ 
+<td valign="top" width="33%">
 ### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
@@ -44,10 +44,11 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td>
+ 
 
-
-
+ 
+<td valign="top" width="33%">
 ### DevOps  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
@@ -92,25 +93,4 @@
 
 <br/>  
 
-
-
-
-
-<!-- ## Recent Blog Posts   -->
-<!-- BLOG-POST-LIST:START -->  
-<!-- If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.  -->
-<!-- BLOG-POST-LIST:END -->  
-
-<!-- <br/>   -->
-
-<!-- <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=isoomni&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
 
