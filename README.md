@@ -2,7 +2,7 @@
  </br>
 
 ### <div align="center">I'm Soomin Lee, a Server developer 👨‍💻</div>  
-### <div align="center">working remotely since 2020 🚀</div>  
+### <div align="center">studying since 2020 🚀</div>  
 
  </br>
 
